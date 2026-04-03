@@ -3,4 +3,4 @@ Smart Library Management System (SLMS) – Object Oriented Programming Assignmen
 
 To run the file: 
 Download the file, don’t rely on View raw.
-If Windows shows SmartScreen, click More info -> Run anyway.
+If Windows shows SmartScreen, click More info then click Run anyway.
