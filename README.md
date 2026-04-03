@@ -3,6 +3,6 @@ Smart Library Management System (SLMS) – Object Oriented Programming Assignmen
 
 To run the file: 
 Open the the Partial Smart Library Management System folder and download the file SmartLibrarySystem.exe, don’t rely on View raw.
-If Windows shows SmartScreen, click More info then click Run anyway. The file should work then you'll be able to run the program.
+If Windows shows SmartScreen, click More info then click Run anyway. The file will open then you'll be able to run the program.
 
 !!HAVE FUN!!
